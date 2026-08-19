@@ -2,8 +2,8 @@
 
 MAJOR TOM is a deep-learning system that performs **Roman Numeral Analysis (RNA)
 directly from audio**. Given a polyphonic recording, it predicts a beat-level
-harmonic analysis — global key, root scale degree, tonicization, chord quality,
-inversion and the composite Roman numeral — and presents the result in a desktop
+harmonic analysis: global key, root scale degree, tonicization, chord quality,
+inversion and the composite Roman numeral, and presents the result in a desktop
 application with a synced waveform, chord timeline and lead-sheet PDF export.
 
 The model (an `RNATransformer`) is trained and evaluated on the **PARC
